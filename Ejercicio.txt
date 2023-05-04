@@ -1,0 +1,11 @@
+Esta es informacion que va dentro de mi documento.
+
+Aqui estoy escribiendo como si fuera el bloc de notas.
+Veamos otro ejemplo.
+
+Si vuelvo a escribir, lo guardo con Ctrl + O y acto seguido cierro este documento con Ctrl + X
+Intente escribir ahora en Vim pero no se como guardarlo.
+
+Pude guardar en Vim y salir pero la realidad es que no me gusta nada.
+
+Como se quitaba lo de escribir? Ah si, era con ESC... veamos...
